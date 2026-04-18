@@ -1,12 +1,12 @@
 Package: inkully
-Version: 0.1.2
+Version: 0.1.3
 Architecture: arm64
 Maintainer: Your Name <you@example.com>
-Filename: pool/main/inkully_0.1.2_arm64.deb
-Size: 55062324
-MD5sum: 15bc7d6ec479926952db8d5ff1df4c76
-SHA1: 4171abfe2298510d1445f3b10580d673dd7df7da
-SHA256: 865b257abe481cfd5c86da9bd3171cd48abbdf053e400c6a5f0fa837fb44ee15
+Filename: pool/main/inkully_0.1.3_arm64.deb
+Size: 41113664
+MD5sum: 21f4d997dd2f90a1cb47bb0bda325f6c
+SHA1: 6e2b8db581560b9a87c901f8bf636fafbfd48714
+SHA256: cf620f84a51d0668630058fcd6eda268cb1f49e423d4368fedbef7e13f41087a
 Section: utils
 Priority: optional
 Description: inkully CLI application packaged as a .deb
